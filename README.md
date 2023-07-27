@@ -8,7 +8,7 @@ The first stage of this project, we wrote a command interpreter to manage the Ai
 - create the first abstracted storage engine of the projects file storage
 - create all unittests to validate all our classes and storage engine
 
-# DESCRIPTION OF THE COMMAND INTERPRETER
+## DESCRIPTION OF THE COMMAND INTERPRETER
 A command interpreter also known as a command line interpreter or shell, facilitates the interaction between a user to enter commands and executes various operations.
 ## THE CONSOLE
 Run the console using ./console.py
@@ -16,7 +16,7 @@ Quit the console using (hbnb) quit
 ## TESTING
 Unit test for this project are defined in the test folder to run the test simultaneously the following command should be executed $python3 unittest -m dicover tests
 
-## AUTHOR
+## AUTHORS
 This folder contains the persons that carried the work on this repository:
 Okwori Patience
 Damian Oguche
